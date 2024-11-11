@@ -7,22 +7,12 @@ This is a command-line tool that recursively searches files in specified directo
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Future Changes](#future-changes)
 - [Problems / Improvements](#problems--improvements)
 - [Changelog](#changelog)
 - [Sponsor this Project](#sponsor-this-project)
 - [License](#license)
-
-## Installation
-
-To install and use this tool, make sure you have Python installed. Clone the repository and navigate to the directory.
-
-```bash
-git clone https://github.com/SirScrubbington/recursive-hex-decimal-converter.git
-cd recursive-hex-decimal-converter
-```
 
 ## Usage
 
